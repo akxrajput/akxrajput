@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Girase
-- 👀 I’m Engineer intrested in Tech
+- 👀 I’m Engineer interested in Tech
 - 📫 How to reach me: I have links in my profile ...
 
 <!---
